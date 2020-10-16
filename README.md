@@ -7,3 +7,9 @@ berdiri sendiri. Sebuah Fragment harus bergantung pada sebuah Activity. Dalam an
 sederhana, Fragment bisa dianggap sebuah child dan Activity adalah parent, sebagaimana
 ViewGroup dan View. Contoh pada aplikasi GOJEK Pada aplikasi GOJEK di atas, tampilan Fragment seperti pada GoRide, GoCar, GoFood, dan
 GoShop yang ditampilkan dalam satu Activity. [Selengkapnya](https://developer.android.com/guide/components/fragments?hl=id)
+## Berikut adalah langkah-langkah untuk menambahkan file .kt pada project:
+- [x] Klik kanan pada direktori app/java/<package project>
+- [x] Pilih New, Kotlin File/Class
+- [x] Beri nama MyFriendsFragment dan pilih Kind: Class, OK
+  
+  
